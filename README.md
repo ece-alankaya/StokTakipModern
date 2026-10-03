@@ -29,7 +29,7 @@ Kullanıcı dostu arayüzü sayesinde stok hareketleri anlık olarak izlenebilir
 ### Kurulum Adımları
 1. **Repository'yi bilgisayarınıza klonlayın:**
    ```bash
-   git clone [https://github.com/ecealankaya/StokTakip_Modern.git](https://github.com/ecealankaya/StokTakip_Modern.git)
+   git clone [https://github.com/ece-alankaya/StokTakipModern.git](https://github.com/ece-alankaya/StokTakipModern.git)
    
 2. **Projeyi Visual Studio ile Açın:**
 StokTakip_Modern.sln dosyasına çift tıklayarak veya Visual Studio içerisinden projeyi açın.
